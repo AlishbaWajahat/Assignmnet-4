@@ -15,5 +15,3 @@ def main():
     print(f'Congrats! The number was: {secret_number}')
 if __name__ == '__main__':
     main()
-            
-        
